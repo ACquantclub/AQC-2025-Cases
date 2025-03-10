@@ -1,1 +1,1 @@
-# AQC-2025-Cases
+# Amherst Quant Competition 2025 Cases
